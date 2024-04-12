@@ -56,16 +56,14 @@ img{
     width: 500;
     height: 500;
 }
-h2{
-   color: gray; 
-   
 
-
-}
 form{
-    margin-left: 40%;
+    margin-center: 80%;
     color: gray;
-    text-align: justify;
+    text-align: center;
     
     
 }
+
+
+
